@@ -1,6 +1,6 @@
 import './App.css';
 import { useEffect, useState } from 'react';
-й
+
 function App() {
   const [displayLetter, setDisplayLetter] = useState('');
 
